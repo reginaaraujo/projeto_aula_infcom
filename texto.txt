@@ -3,3 +3,6 @@ me chamo regina
 moro em curitiba
 quarta linha
 última linha
+
+Aluna: Regina Araujo
+link: https://github.com/reginaaraujo/projeto_aula_infcom
