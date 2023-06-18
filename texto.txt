@@ -6,3 +6,4 @@ quarta linha
 
 Aluna: Regina Araujo
 link: https://github.com/reginaaraujo/projeto_aula_infcom
+Nome repositório: projeto_aula_infcom
